@@ -18,6 +18,7 @@ Project Fluent is a modern and flexible localization system that builds off of t
 * [SlimeVR](https://slimevr.dev/) wireless, 360° full-body tracking in virtual reality 
 * [Stackable](https://stackable.tech/) modular open source data platform
 * [Vox Media](https://corp.voxmedia.com/) used in commenting platform [Coral](https://coralproject.net/)
+* [Veloren](https://veloren.net/) an action-adventure role-playing game set in a fantasy world
 
 ## Translation Services Supporting Fluent
 
