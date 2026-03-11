@@ -19,9 +19,6 @@ Project Fluent is a modern and flexible localization system that builds off of t
 * [Stackable](https://stackable.tech/) modular open source data platform
 * [Vox Media](https://corp.voxmedia.com/) used in commenting platform [Coral](https://coralproject.net/)
 
-## Community Projects
-* [Veloren](https://veloren.net/) an action-adventure role-playing game set in a fantasy world
-
 ## Translation Services Supporting Fluent
 
 These services support `.ftl` files for the translation of products (i.e. one of the companies listed above could hire one of the companies below to add a new language to their supported localizations).
@@ -31,3 +28,6 @@ These services support `.ftl` files for the translation of products (i.e. one of
 * [Lokalise](https://lokalise.com/)
 * [Pontoon](https://github.com/mozilla/pontoon) - Self-hosted open source translation platform
 * [Weblate](https://weblate.org/) - Open source translation platform
+
+## Community Projects (without company backing)
+* [Veloren](https://veloren.net/) an action-adventure role-playing game set in a fantasy world
