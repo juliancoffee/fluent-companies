@@ -30,4 +30,4 @@ These services support `.ftl` files for the translation of products (i.e. one of
 * [Weblate](https://weblate.org/) - Open source translation platform
 
 ## Community Projects (without company backing)
-* [Veloren](https://veloren.net/) an action-adventure role-playing game set in a fantasy world
+* [Veloren](https://veloren.net/) an open-source ARPG set in a fantasy world
